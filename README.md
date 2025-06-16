@@ -47,3 +47,9 @@ python ca_tracker/cli.py status
 The command outputs the turnover achieved and the remaining amount needed for the day, week and month.
 
 All data is saved in `targets.json` and `sales.json` in the project root.
+
+## React UI
+
+A lightweight React front-end is provided in the `react_app` folder. It performs the same actions (set targets, add sales and show status) using `localStorage` for persistence.
+
+To try it out simply open `react_app/index.html` in your browser.

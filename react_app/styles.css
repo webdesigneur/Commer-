@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 1em;
+}
+
+section {
+  margin-bottom: 2em;
+}
+
+input {
+  margin: 0.2em;
+}
