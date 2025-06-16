@@ -10,6 +10,12 @@ The tracker requires Python 3.8+. No external packages are needed.
 python ca_tracker/cli.py --help
 ```
 
+Alternatively you can run a very simple menu-driven interface:
+
+```bash
+python simple_ui.py
+```
+
 ## Usage
 
 1. **Set targets**:
