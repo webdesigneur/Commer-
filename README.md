@@ -53,3 +53,19 @@ All data is saved in `targets.json` and `sales.json` in the project root.
 A lightweight React front-end is provided in the `react_app` folder. It performs the same actions (set targets, add sales and show status) using `localStorage` for persistence.
 
 To try it out simply open `react_app/index.html` in your browser.
+
+## Complete React Project
+
+A full React application using Parcel is located in the `react_full` folder. To run it you need Node.js installed. After installing dependencies with `npm install`, start the development server:
+
+```bash
+cd react_full
+npm install
+npm start
+```
+
+Build the optimized production bundle with:
+
+```bash
+npm run build
+```
