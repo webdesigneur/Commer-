@@ -53,3 +53,7 @@ All data is saved in `targets.json` and `sales.json` in the project root.
 A lightweight React front-end is provided in the `react_app` folder. It performs the same actions (set targets, add sales and show status) using `localStorage` for persistence.
 
 To try it out simply open `react_app/index.html` in your browser.
+
+## Assistant Culinaire
+
+A basic cooking planner is provided in `react_app/assistant.html`. It generates a weekly menu, shopping list and approximate costs for ingredients. Just open the file in your browser to try it out.
